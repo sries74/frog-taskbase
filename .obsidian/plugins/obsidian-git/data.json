@@ -1,8 +1,8 @@
 {
   "autoCommitMessage": "FROG-taskbase sync",
-  "autoCommitInterval": 60,
-  "autoPush": true,
-  "autoPushInterval": 5,
+  "autoCommitInterval": 7200,
+  "autoPush": false,
+  "autoPushInterval": 0,
   "autoBackupAfterFileChange": false,
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoStagedDelay": 10,
