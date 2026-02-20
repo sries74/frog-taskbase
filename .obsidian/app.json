@@ -1,0 +1,20 @@
+{
+  "baseFontSize": 16,
+  "useTab": true,
+  "lineLength": 0,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "appearanceTab": true,
+  "promptDelete": true,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "fontSize": 16,
+  "lineNumbers": true,
+  "useMarkdownLinks": true,
+  "defaultLinkMark": "[",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "obsidianCss": true,
+  "cssTheme": "Minimal"
+}
