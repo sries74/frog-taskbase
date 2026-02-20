@@ -1,0 +1,14 @@
+{
+  "autoCommitMessage": "FROG-taskbase sync",
+  "autoCommitInterval": 60,
+  "autoPush": true,
+  "autoPushInterval": 5,
+  "autoBackupAfterFileChange": false,
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoStagedDelay": 10,
+  "conflictResolutionStrategy": "theirs",
+  "syncMethod": "merge",
+  "showStatusBar": true,
+  "showFileMenu": true,
+  "showDesktopNotification": false
+}
